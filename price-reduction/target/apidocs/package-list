@@ -1,0 +1,7 @@
+com.java.app
+com.java.app.controller
+com.java.app.dto
+com.java.app.entity
+com.java.app.repository
+com.java.app.service
+com.java.app.utility

@@ -1,0 +1,16 @@
+com\java\app\entity\Price.class
+com\java\app\dto\ProductDto.class
+com\java\app\utility\CurrencyUtil.class
+com\java\app\repository\PriceReductionRepository.class
+com\java\app\repository\PriceReductionRepositoryImpl.class
+com\java\app\SwaggerDocumentationConfig.class
+com\java\app\dto\ColorSwatchDto.class
+com\java\app\controller\PriceReductionController.class
+com\java\app\RestTemplateConfig.class
+com\java\app\entity\Product.class
+com\java\app\service\PriceReductionServiceImpl.class
+com\java\app\entity\ProductResponse.class
+com\java\app\entity\ColorSwatch.class
+com\java\app\PriceReductionApplication.class
+com\java\app\utility\ColorUtil.class
+com\java\app\service\PriceReductionService.class

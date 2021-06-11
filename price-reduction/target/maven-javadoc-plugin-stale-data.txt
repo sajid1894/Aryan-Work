@@ -1,0 +1,20 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_291\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\allclasses-frame.html = 1623396979891
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\allclasses-noframe.html = 1623396979893
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\argfile = 1623396976291
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\constant-values.html = 1623396979773
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\deprecated-list.html = 1623396979888
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\help-doc.html = 1623396979902
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\index-all.html = 1623396979884
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\index.html = 1623396979896
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\options = 1623396976285
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\overview-frame.html = 1623396979532
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\overview-summary.html = 1623396979899
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\overview-tree.html = 1623396979876
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\package-list = 1623396979524
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\script.js = 1623396979906
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\serialized-form.html = 1623396979786
+C:\Users\SajidH\Desktop\Test-Workspace\price-reduction\target\apidocs\stylesheet.css = 1623396979904

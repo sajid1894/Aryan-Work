@@ -107,11 +107,11 @@ Run the server and browse to [http://localhost:1221/price-reduction/api-docs.htm
 
 Below is the snapshot the of the api documentation,
 
-![ScreenShot](/images/image1.jpg)
+![ScreenShot](/price-reduction/images/image1.jpg)
 
 You can tryout the api endpoints by **Clicking the Endpoint Boxes** and after that hitting the `tryout` button,
 
-![ScreenShot](/images/image2.jpg)
+![ScreenShot](/price-reduction/images/image2.jpg)
 
 # About Spring Boot
 
@@ -123,4 +123,4 @@ Javadocs are gererated using the maven-javadoc-plugin and accessable through `in
 
 Below is the snapshot the of the javadoc,
 
-![ScreenShot](/images/image3.jpg)
+![ScreenShot](/price-reduction/images/image3.jpg)
